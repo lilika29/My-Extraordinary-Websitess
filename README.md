@@ -1,5 +1,5 @@
 # My-Extraordinary-Websitess
-or create a new repository on the command line:
+Create a new repository on the command line:
 
 
 git init
